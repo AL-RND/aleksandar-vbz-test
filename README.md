@@ -46,7 +46,7 @@ Aufgabe 13
 
 [https://github.com/AL-RND/aleksandar-vbz-test/blob/master/code/Task13.sql]
 
-<img src= "pictures/Task13.png" width="400">
+<img src= "pictures/Task13.png" width="600">
 
 Aufgabe 14
 
