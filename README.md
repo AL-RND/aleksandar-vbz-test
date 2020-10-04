@@ -1,4 +1,7 @@
 # aleksandar-vbz.dat
 
 Aufgabe 6
-![](pictures/github-Task6.png)
+<img src= "pictures/Task6.png" width="600">
+
+Aufgabe 7
+![](code/Task7.sql)
