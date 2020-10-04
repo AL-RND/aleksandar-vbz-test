@@ -4,4 +4,4 @@ Aufgabe 6
 <img src= "pictures/Task6.png" width="600">
 
 Aufgabe 7
-![](code/Task7.sql)
+[https://github.com/AL-RND/aleksandar-vbz-test/blob/master/code/Task7.sql]
