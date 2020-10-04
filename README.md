@@ -40,4 +40,4 @@ Aufgabe 12
 
 [https://github.com/AL-RND/aleksandar-vbz-test/blob/master/code/Task12.sql]
 
-<img src= "pictures/Task12_Map.png" width="600">
+<img src= "pictures/Task12.png" width="600">
