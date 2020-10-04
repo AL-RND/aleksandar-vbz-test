@@ -18,7 +18,7 @@ c. [https://github.com/AL-RND/aleksandar-vbz-test/blob/master/code/Task8_c.sql]
 Aufgabe 9
 a. [https://github.com/AL-RND/aleksandar-vbz-test/blob/master/code/Task9_a.sql]
 
-<img src= "pictures/Task9.png" width="400">
+<img src= "pictures/Task9.png" width="600">
 
 b. [https://github.com/AL-RND/aleksandar-vbz-test/blob/master/code/Task9_b.sql]
 
@@ -26,4 +26,4 @@ Aufgabe 10
 
 [https://github.com/AL-RND/aleksandar-vbz-test/blob/master/code/Task10.sql]
 
-<img src= "pictures/Task10.png" width="400">
+<img src= "pictures/Task10.png" width="600">
