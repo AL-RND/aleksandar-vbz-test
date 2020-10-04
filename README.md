@@ -27,3 +27,17 @@ Aufgabe 10
 [https://github.com/AL-RND/aleksandar-vbz-test/blob/master/code/Task10.sql]
 
 <img src= "pictures/Task10.png" width="600">
+
+Aufgabe 11
+
+<img src= "pictures/Task11.png" width="600">
+
+<img src= "pictures/Task11_Map.png" width="600">
+
+[https://github.com/AL-RND/aleksandar-vbz-test/blob/master/pictures/Task11.csv]
+
+Aufgabe 12
+
+[https://github.com/AL-RND/aleksandar-vbz-test/blob/master/code/Task12.sql]
+
+<img src= "pictures/Task12_Map.png" width="600">
