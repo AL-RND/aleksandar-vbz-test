@@ -41,3 +41,13 @@ Aufgabe 12
 [https://github.com/AL-RND/aleksandar-vbz-test/blob/master/code/Task12.sql]
 
 <img src= "pictures/Task12.png" width="400">
+
+Aufgabe 13
+
+[https://github.com/AL-RND/aleksandar-vbz-test/blob/master/code/Task13.sql]
+
+<img src= "pictures/Task13.png" width="400">
+
+Aufgabe 14
+
+[https://github.com/AL-RND/aleksandar-vbz-test/blob/master/code/Task14.sql]
