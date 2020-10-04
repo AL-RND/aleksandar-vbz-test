@@ -30,7 +30,7 @@ Aufgabe 10
 
 Aufgabe 11
 
-<img src= "pictures/Task11.png" width="600">
+<img src= "pictures/Task11.png" width="400">
 
 <img src= "pictures/Task11_Map.png" width="600">
 
